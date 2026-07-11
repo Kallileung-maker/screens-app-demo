@@ -18,7 +18,8 @@ struct ContentView: View {
                     .foregroundStyle(.white)
                     .font(.largeTitle)
                     .bold()
-                    .font(.system(size:14))
+                    .italic()
+                    .font(.system(size:67))
             }
         }
         .ignoresSafeArea()
